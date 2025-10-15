@@ -48,7 +48,7 @@ This project aims to simplify **protein structure exploration** for researchers,
 ---
 
 ### Project Structure
-
+```
 Python-Protein-Structure-Intelligence/
 │
 ├── main.py                 
@@ -61,6 +61,7 @@ Python-Protein-Structure-Intelligence/
 ├── results/              
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
