@@ -36,22 +36,24 @@ This project aims to simplify **protein structure exploration** for researchers,
 ---
 
 ### Installation
+Clone the repository
 ```
-# Clone the repository
 git clone https://github.com/AlisonOuellet/Python---Protein-Strucure-Intelligence.git
 cd Python---Protein-Strucure-Intelligence
-
-# Create a virtual environment
+```
+Set up the environment
+```
 python3 -m venv venv
 
-# Activate the environment
 source venv/bin/activate      # On Linux or macOS
 venv\Scripts\activate         # On Windows
-
-# Install dependencies
+```
+Install the dependencies
+```
 pip install -r requirements.txt
-
-# Run the application
+```
+Run the application
+```
 python main.py
 ```
 
