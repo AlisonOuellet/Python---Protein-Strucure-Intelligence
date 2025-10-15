@@ -1,6 +1,6 @@
 # Python-Protein-Strucure-Intelligence
 **Protein-Structure-Intelligence 2025:** [https://protein_structure_inteligence](https://protein_structure_inteligence)  
-![Pipeline](https://img.shields.io/badge/pipeline-passed-brightgreen?style=for-the-badge)
+![pipeline](https://img.shields.io/badge/pipeline-passed-brightgreen?style=flat-square)
 ![Build](https://img.shields.io/badge/build-success-orange?style=for-the-badge)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
