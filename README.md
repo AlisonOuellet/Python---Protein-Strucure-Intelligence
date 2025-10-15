@@ -1,9 +1,6 @@
 # Python-Protein-Strucure-Intelligence
 **Protein-Structure-Intelligence 2025:** [https://protein_structure_inteligence](https://protein_structure_inteligence)  
 ![pipeline](https://img.shields.io/badge/pipeline-passed-brightgreen?style=flat-square)
-![Build](https://img.shields.io/badge/build-success-orange?style=for-the-badge)
-![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
 
 A Python tool that takes a protein (PDB ID) and automatically creates an interactive map of its structure, domains, interactions, and known mutations
 
