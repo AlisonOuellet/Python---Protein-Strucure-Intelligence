@@ -2,10 +2,10 @@
 
 **Protein-Structure-Intelligence 2025:** [https://protein_structure_inteligence](https://protein_structure_inteligence)  
 ![pipeline](https://img.shields.io/badge/pipeline-passed-brightgreen?style=flat-square)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-[![PyMOL](https://img.shields.io/badge/PyMOL-compatible-orange?style=for-the-badge)]()
-![Status](https://img.shields.io/badge/status-active-success.svg)
-![Last Commit](https://img.shields.io/github/last-commit/AlisonOuellet/Python---Protein-Strucure-Intelligence)
+![python](https://img.shields.io/badge/python-3.11-gray?style=flat-square)
+![pymol](https://img.shields.io/badge/pymol-compatible-orange?style=flat-square)
+![status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
+![last commit](https://img.shields.io/github/last-commit/AlisonOuellet/Python---Protein-Strucure-Intelligence?style=flat-square)
 
 ---
 
