@@ -15,6 +15,7 @@ how to use the project
 credits
 badges
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+[![PyMOL](https://img.shields.io/badge/PyMOL-compatible-orange?style=for-the-badge)]()
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/TON_UTILISATEUR/TON_REPO.svg)
 
