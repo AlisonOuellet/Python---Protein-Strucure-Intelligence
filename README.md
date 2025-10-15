@@ -50,15 +50,15 @@ This project aims to simplify **protein structure exploration** for researchers,
 ### Project Structure
 
 Python-Protein-Structure-Intelligence/
-|
-├── Main.py
-├── Modules/
-|   ├── fetch_pdb.py
-|   ├── analyse_domains.py
-|   ├── interactions.py
-|   └── visualization.py
-|
-├── results/
+│
+├── psi.py                 # Main script
+├── modules/
+│   ├── fetch_pdb.py       # Handles PDB data retrieval
+│   ├── analyze_domains.py # Pfam & InterPro integration
+│   ├── interactions.py    # H-bond and contact analysis
+│   └── visualization.py   # PyMOL automation
+│
+├── results/               # Output figures and reports
 ├── requirements.txt
 └── README.md
 
