@@ -1,27 +1,71 @@
-# Python-Protein-Strucure-Intelligence
+# Python Protein Strucure Intelligence (PPSI)
+
 **Protein-Structure-Intelligence 2025:** [https://protein_structure_inteligence](https://protein_structure_inteligence)  
 ![pipeline](https://img.shields.io/badge/pipeline-passed-brightgreen?style=flat-square)
-
-A Python tool that takes a protein (PDB ID) and automatically creates an interactive map of its structure, domains, interactions, and known mutations
-
-Fonctionality:
-- Automatically download the PDB file from RCSBIdentify domains (via InterPro or Pfam API)
-- Analyze internal interactions (H-bonds, hydrophobic, salt bridges)
-- Generate a PyMOL figure with automatic color coding (domains, mutations, chains, ligand, etc.)
-- Export a publication-ready image + a mini PDF report
-
-project title
-project description
-table of content
-how to install and run the project
-how to use the project
-credits
-
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 [![PyMOL](https://img.shields.io/badge/PyMOL-compatible-orange?style=for-the-badge)]()
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/TON_UTILISATEUR/TON_REPO.svg)
-![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
 
+---
 
+### Overview
+***Python Protein Structure Intelligence (PPSI)*** is a Python-based bioinformatics tool designed to automatically analyze and visualize protien 3D structures. It integrates domain annotation, structural interaction mapping, domains interactions, known mutations and publication visualization through **PyMOL** and biological databases.
 
+This project aims to simplify **protein structure exploration** for researchers, educators, and students by automating the tedious steps of domain identification and structure analysis.
+
+---
+
+### Core Fonctionalities
+- **Automated Structure Retrieval:** Fetches PDB structures directly from the RCSB Protein Data Bank.  
+- **Domain Identification:** Uses **InterPro** and **Pfam APIs** to map functional domains.  
+- **Interaction Analysis:** Detects hydrogen bonds, hydrophobic contacts, and salt bridges within or between chains.  
+- **PyMOL Visualization:** Generates colored structural models (domains, ligands, chains, mutations).  
+- **Exportable Reports:** Creates **publication-ready figures** and a concise **PDF summary report**.
+
+---
+
+### Table of Contents
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Example Output](#example-output)
+4. [Project Structure](#project-structure)
+5. [Credits](#credits)
+6. [License](#license)
+
+---
+
+### Installation
+
+---
+
+### Usage
+
+---
+
+### Example Output
+
+---
+
+### Project Structure
+
+Python-Protein-Structure-Intelligence/
+|
+├── Main.py
+├── Modules/
+|   ├── fetch_pdb.py
+|   ├── analyse_domains.py
+|   ├── interactions.py
+|   └── visualization.py
+|
+├── results/
+├── requirements.txt
+└── README.md
+
+---
+
+### Credits
+
+---
+
+## License
