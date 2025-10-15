@@ -1,11 +1,11 @@
 # Python Protein Strucure Intelligence (PPSI)
 
 **Protein-Structure-Intelligence 2025:** [https://protein_structure_inteligence](https://protein_structure_inteligence)  
-![pipeline](https://img.shields.io/badge/pipeline-passed-brightgreen?style=flat-square)
-![python](https://img.shields.io/badge/python-3.11-gray?style=flat-square)
-![pymol](https://img.shields.io/badge/pymol-compatible-orange?style=flat-square)
-![status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
-![last commit](https://img.shields.io/github/last-commit/AlisonOuellet/Python---Protein-Strucure-Intelligence?style=flat-square)
+![Pipeline](https://img.shields.io/badge/pipeline-passed-brightgreen?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python)
+![PyMOL](https://img.shields.io/badge/PyMOL-compatible-ff7f2a?style=flat-square)
+![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/AlisonOuellet/Python---Protein-Strucure-Intelligence?style=flat-square)
 
 ---
 
