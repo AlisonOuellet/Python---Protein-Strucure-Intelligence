@@ -6,3 +6,16 @@ Fonctionality:
 - Analyze internal interactions (H-bonds, hydrophobic, salt bridges)
 - Generate a PyMOL figure with automatic color coding (domains, mutations, chains, ligand, etc.)
 - Export a publication-ready image + a mini PDF report
+
+project title
+project description
+table of content
+how to install and run the project
+how to use the project
+credits
+badges
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Status](https://img.shields.io/badge/status-active-success.svg)
+![Last Commit](https://img.shields.io/github/last-commit/TON_UTILISATEUR/TON_REPO.svg)
+
+
